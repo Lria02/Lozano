@@ -1,0 +1,116 @@
+body {
+    background-image: url(ag.webp);
+    background-repeat: no-repeat;
+    background-size: 2000px;
+    background-color: rgb(255, 255, 255);
+    overflow-y: scroll;
+}
+
+
+.border {
+    background-image: url(logo.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    margin-left: 10%;
+    width: 70%;
+    height: 10px;
+    margin-top: 20px;
+}
+
+.searchbar {
+    position: absolute;
+    right: 0;
+    margin-right: 19%;
+    top: 0;
+    margin-top: 39px;
+}
+
+.title {
+    position: absolute;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-left: 14%;
+    top: 0;
+    font-weight: bold;
+}
+
+.p1 {
+    color: white;
+    font-size: 60px;
+    margin-top: 200px;
+    margin-left: 200px;
+}
+
+.p2 {
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+    margin-top: 60px;
+    margin-left: 200px;
+    width: 30%;
+}
+
+.p3color {
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+}
+
+.pp3 {
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    left: 0;
+    margin-left: 38%;
+    margin-top: 750px;
+}
+
+.p2p3 {
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    left: 0;
+    margin-left: 40%;
+    margin-top: -55px;
+}
+
+table {
+    
+    position: absolute;
+    width: 80%;
+    font-size: 20px;
+    left: 0;
+    margin-left: 11%;
+}
+
+
+.c1, .c2, .c3 {
+    font-size: 20px;
+    padding: 50px; /* Adjust the padding value as needed */
+}
+
+.b1, .b2, .b3 {
+    font-size: 40px;
+}
+
+
+.down-arrow {
+    position: absolute;
+    left: 0;
+    margin-top: 15%;
+    margin-left: 46%;
+    width: 0;
+    height: 0;
+    border-left: 30px solid transparent; /* Adjust size as needed */
+    border-right: 30px solid transparent; /* Adjust size as needed */
+    border-top: 40px solid black; /* Adjust size and color as needed */
+}
+
+footer {
+    font-size: 30px;
+    position: absolute;
+    margin-top: 350px;
+    left: 0;
+    margin-left: 43%;
+}
